@@ -7,4 +7,9 @@ puts a[:a]
 puts a.keys
 puts a.values
 
-a.each {|key,value| puts "#{key} = #{value} = #{value.class}"
+a.each {|key,value| puts "#{key} = #{value} = #{value.class}"}
+
+puts a.select{|key,value| value.is_a?(Integer)} #is_a is class of ?
+puts a.select{|key,value| a.delete(key) if value.is_a?(Integer)} #delete key if value is integer
+
+puts a
