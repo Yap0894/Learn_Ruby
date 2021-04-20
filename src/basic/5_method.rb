@@ -1,4 +1,3 @@
-
 def multiply(first_num,second_num)
     first_num * second_num
 end
@@ -6,7 +5,6 @@ end
 def divided(first_num,second_num)
     first_num / second_num
 end
-
 
 def mod(first_num,second_num)
     first_num % second_num

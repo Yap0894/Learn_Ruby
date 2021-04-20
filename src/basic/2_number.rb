@@ -1,4 +1,4 @@
-puts 3*2
+puts 3 * 2
 puts "3" * 2 #output is"33"
 puts "-" * 5 #output is"-----"
 #puts 5 * "2" #error cannot multiply by string

@@ -22,8 +22,7 @@ def get_area_code(somehas, key)
 end
 
 loop do
-    puts "Do you want to lookup an area code based on 
-    a city name?(Y/N)"
+    puts "Do you want to lookup an area code based on a city name?(Y/N)"
     answer = gets.chomp.downcase
     break if answer != "y"
     puts "Which city do you the area code for?"
