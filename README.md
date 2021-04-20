@@ -1,4 +1,5 @@
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 Learning Ruby language using :
 
@@ -13,3 +14,8 @@ Learning Ruby language using :
   - [The Complete Ruby on Rails Developer Course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)
   - [The Ruby Style Guide](https://github.com/rubocop/ruby-style-guide)
  
+[license-shield]: https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge
+[license-url]: https://github.com/Yap0894/Learn_Ruby/blob/master/LICENSE.txt
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: www.linkedin.com/in/alexander-yap-a14015169
