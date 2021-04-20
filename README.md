@@ -1,5 +1,3 @@
-
-[![MIT License][license-shield]][license-url]
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 
 Learning Ruby language using :
