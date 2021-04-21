@@ -71,3 +71,16 @@
 #   end
   
 #   myapp = Blurbalizer.new "The Big Blurb"
+
+# def say_hai
+#     if @names.nil?
+#       puts "..."
+#     elsif @names.respond_to?("each")
+#       # @names adalah list, iterate!
+#       @names.each do |name|
+#         puts "Hello #{name}!"
+#       end
+#     else
+#       puts "Hello #{@names}!"
+#     end
+#   end
