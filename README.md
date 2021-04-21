@@ -15,6 +15,7 @@ Learning Ruby language using :
  
 ### Other Ruby Reference
   - [Ruby Version Manager](https://rvm.io/)
-
+  - [bcrypt-Ruby](https://github.com/bcrypt-ruby/bcrypt-ruby)
+  
 [license-shield]: https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge
 [license-url]: https://github.com/Yap0894/Learn_Ruby/blob/master/LICENSE.txt
