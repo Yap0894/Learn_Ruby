@@ -12,13 +12,13 @@ dial_book = {
 }
 
 #Get city names from hash
-def get_city_names (somehas)
-    return somehas.keys
+def get_city_names(somehash)
+    somehash.keys
 end
 
 #Get area code based on given hash and key
-def get_area_code(somehas, key)
-    return somehas[key]
+def get_area_code(somehash, key)
+    somehash[key]
 end
 
 loop do
