@@ -9,6 +9,7 @@ Learning Ruby language using :
 
 ### Ruby
   - [Official Ruby Docs](https://www.ruby-lang.org/en/documentation/)
+  - [QuickStart: Ruby in 20 minutes](https://www.ruby-lang.org/id/documentation/quickstart/)
   - [Try Ruby in 30 minutes](https://try.ruby-lang.org/)
   - [The Complete Ruby on Rails Developer Course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)
   - [The Ruby Style Guide](https://rubystyle.guide/)
